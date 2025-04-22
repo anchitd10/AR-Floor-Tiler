@@ -1,0 +1,84 @@
+<libraries>
+  <library
+      name="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\942a5e9ae95408e3424cd3ce1deeb763\transformed\out\jars\classes.jar;E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\942a5e9ae95408e3424cd3ce1deeb763\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\942a5e9ae95408e3424cd3ce1deeb763\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":arcore_client:@aar"
+      jars="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\5bb704542cba3570043c1ca9bf4fbace\transformed\arcore_client\jars\classes.jar"
+      resolved=":arcore_client:"
+      folder="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\5bb704542cba3570043c1ca9bf4fbace\transformed\arcore_client"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":ARPresto:@aar"
+      jars="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\e8994f8e0066de260fca094e199bc637\transformed\ARPresto\jars\classes.jar"
+      resolved=":ARPresto:"
+      folder="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\e8994f8e0066de260fca094e199bc637\transformed\ARPresto"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":UnityARCore:@aar"
+      jars="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\4da546415a73381458ac4958ad46ba50\transformed\UnityARCore\jars\classes.jar"
+      resolved=":UnityARCore:"
+      folder="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\4da546415a73381458ac4958ad46ba50\transformed\UnityARCore"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":unityandroidpermissions:@aar"
+      jars="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\942592b881e85bb2d9a4b9fd85d0e97b\transformed\unityandroidpermissions\jars\classes.jar"
+      resolved=":unityandroidpermissions:"
+      folder="C:\Users\ASUS TUF GAMING  A15\.gradle\caches\transforms-3\942592b881e85bb2d9a4b9fd85d0e97b\transformed\unityandroidpermissions"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\1e70ae599700be248ef4a7265d2d2923\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="E:\AR &amp; VR Development\Marker-Less\Marker-Less(AR-Foundation)\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\1e70ae599700be248ef4a7265d2d2923\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
